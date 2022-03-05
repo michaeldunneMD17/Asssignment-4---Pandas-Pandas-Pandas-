@@ -1,9 +1,9 @@
+Trends of the data¶
 Of the 15 schools - Charter schools have higher passing score percentages % than Distict schools
 
 Of 39,170 students across the 15 schools - the overall passing rate was 80.431606%
 
-The larger the school, the lower the passing rate % was: Small: 93.712801% , Medium: 93.656899% , Large: 69.988051 Possibly highlighting the importance of - 
-Teacher: Student    ratios
+The larger the school, the lower the passing rate % was: Small: 93.712801% , Medium: 93.656899% , Large: 69.988051 Possibly highlighting the importance of - Teacher: Student ratios
 
 Per Student Budget did not correlate in higher overall passing rates. High schools who spent more per student did not achieve higher passing rates.
 
